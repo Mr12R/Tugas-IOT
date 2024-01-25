@@ -85,5 +85,4 @@ Semua manfaat dan info dari SMOOA by IndiHome bisa kamu lihat di website resminy
 
 	4). Implementasi IOT
 
-Dalam bidang bisnis restoran dapat dibuat sebuah apparatus (peralatan) ataupun Smart Robot yang terhubung dengan sebuah database berisi menu yang dapat diakses secara remote/ online
-yang dapat membuat pesanan makanan tamu restoran secara independen/otomatis setelah tamu melakukan input makanan dengan menggunakan website ataupun aplikasi yang terhubung dengan database, dan tamu dapat melihat progress secara realtime dengan aplikasi ataupun website setelah memesan makanan.
+Dalam bidang smarthome dapat disambungkan dengan sebuah hub untuk menghubungkan benda - benda pintar dalam rumah seperti smart TV, AC, wireless MOnitor, dll
